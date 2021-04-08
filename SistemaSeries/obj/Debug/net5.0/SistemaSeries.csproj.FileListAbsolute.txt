@@ -1,0 +1,16 @@
+D:\Projetos\SistemaSeries\SistemaSeries\bin\Debug\net5.0\SistemaSeries.exe
+D:\Projetos\SistemaSeries\SistemaSeries\bin\Debug\net5.0\SistemaSeries.deps.json
+D:\Projetos\SistemaSeries\SistemaSeries\bin\Debug\net5.0\SistemaSeries.runtimeconfig.json
+D:\Projetos\SistemaSeries\SistemaSeries\bin\Debug\net5.0\SistemaSeries.runtimeconfig.dev.json
+D:\Projetos\SistemaSeries\SistemaSeries\bin\Debug\net5.0\SistemaSeries.dll
+D:\Projetos\SistemaSeries\SistemaSeries\bin\Debug\net5.0\ref\SistemaSeries.dll
+D:\Projetos\SistemaSeries\SistemaSeries\bin\Debug\net5.0\SistemaSeries.pdb
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.csprojAssemblyReference.cache
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.AssemblyInfoInputs.cache
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.AssemblyInfo.cs
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.csproj.CoreCompileInputs.cache
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.dll
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\ref\SistemaSeries.dll
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.pdb
+D:\Projetos\SistemaSeries\SistemaSeries\obj\Debug\net5.0\SistemaSeries.genruntimeconfig.cache
